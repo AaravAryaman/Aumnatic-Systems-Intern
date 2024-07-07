@@ -1,0 +1,5 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"R1";"R_0201_0603Metric";1;"10K/1%";;;
+2;"D1";"D_SOD-523";1;"1N4148WT";;;
+3;"J1";"PinHeader_1x02_P2.00mm_Vertical";1;"CON2-SB-ZH";;;
+4;"Q1";"SOT-23-3";1;"IRLML6344TRPBF";;;
