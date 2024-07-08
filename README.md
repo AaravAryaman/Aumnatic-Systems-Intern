@@ -1,4 +1,6 @@
 # Micro Drone Project @ Aumnatic Systems Pvt Ltd
+Original Repo at [Aumnatic Toytronics](https://github.com/Aumnatic-Toytronics/Recreational-Hobby-Micro-Drone.git)  
+  
 I started my intern at Aumnatic Systems Pvt Ltd on 06/05/2024. The main objective of this intern project was to make a flying micro drone running on self-made flight controller. 
   
 In the first week I started off with the Production Team, learning about procedures of PCB production with SMT (Surafce Mount Technology)- stencil printing, pick and place, reflow and quality check. I also tried hand soldering some components onto PCBs. Finally, I performed the testing of PCB circuits that had been produced for a fishing board toy. Meanwhile, I also began my [Drone Research](https://www.canva.com/design/DAGEteYy6_s/aPfHe0JrymGLhPgnTHX_pQ/view?utm_content=DAGEteYy6_s&utm_campaign=designshare&utm_medium=link&utm_source=editor) on various drone components, laws & regulations and the Indian drone industry online from countless sources available.  
